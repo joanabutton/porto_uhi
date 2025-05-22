@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 - Visualized using QGIS
 
 Note: 
-Only Band 10 and the metadata file are included. Full Landsat scene is publicly available via EarthExplorer.
+Full Landsat scene is publicly available via EarthExplorer.
 ---
 
 
