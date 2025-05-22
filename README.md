@@ -1,5 +1,3 @@
-# porto_uhi
-A geospatial project to detect and visualize critical urban heat zones in Porto using satellite data and open-source tools.
 # Urban Heat Island Mapping — Porto, Portugal
 
 This project identifies and visualizes Urban Heat Islands (UHIs) in Porto using thermal satellite data from Landsat 8. The project was guided by AI-assisted learning and developed through open-source geospatial tools.
