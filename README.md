@@ -43,7 +43,7 @@ Note: Only Band 10 and the metadata file are included. Full Landsat scene is pub
 ## Final Report
 
 > The full project report is available here:  
->  [`report/porto_heat_map.pdf`](report/porto_heat_map.pdf)
+>  [`porto_heat_map.pdf`](porto_heat_map.pdf)
 
 ## Next Steps
 
